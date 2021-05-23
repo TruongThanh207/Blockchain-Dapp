@@ -7,7 +7,7 @@
   - [Npm](https://nodejs.org/en/) - as library
 # Steps
   - Download and Install Ganache
-  - Install truffle by NPM:  ___npm íntall -g trufle__
+  - Install truffle by NPM:  ___npm install -g trufle___
   - Compile and deploy the smart contract
-  - Install node_module in 2 folder ___backend__ and __frontend__
-  - Run  ___npm start__
+  - Install node_module in 2 folder ___backend___ and __frontend___
+  - Run  ___npm start___
