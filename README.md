@@ -18,3 +18,6 @@
     - truffle compile
     - truffle migrate
   - Metamask connect with wallet in ganache by Private Key
+# Interface
+![image](https://user-images.githubusercontent.com/45113398/119251119-f4d21d80-bbce-11eb-9a04-fac3829967f8.png)
+![image](https://user-images.githubusercontent.com/45113398/119251125-f996d180-bbce-11eb-8c01-66da359cd316.png)
