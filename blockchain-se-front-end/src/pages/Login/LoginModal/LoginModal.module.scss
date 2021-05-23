@@ -1,0 +1,22 @@
+.login-container {
+  text-align: center;
+}
+
+.custom-modal {
+  .ant-modal-content {
+    .ant-modal-header {
+      padding: 10px 10px 10px 15px;
+      background: #2980b9;
+      border-top-right-radius: 6px;
+      border-top-left-radius: 6px;
+
+      .ant-modal-title {
+        margin: 0;
+        color: #ffffff;
+        display: inline-block;
+        font-size: 18px;
+        line-height: 28px;
+      }
+    }
+  }
+}

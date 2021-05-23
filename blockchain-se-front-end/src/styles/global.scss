@@ -1,0 +1,29 @@
+@import './variables';
+@import "~antd/dist/antd.css";
+@import '~react-notifications-component/dist/theme.css';
+
+
+.container {
+  width: 100%;
+  max-width: 1160px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.mt-4 {
+  margin-top: 1.5rem !important;
+}

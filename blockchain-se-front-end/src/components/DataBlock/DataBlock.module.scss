@@ -1,0 +1,38 @@
+.data-block-container {
+  position: relative;
+  margin-bottom: 20px;
+  background: #ffffff;
+  border-radius: 6px;
+  text-align: center;
+  transition: all 0.5s ease-in 0s;
+
+  section {
+    padding: 20px;
+
+    h3 {
+      font-weight: bold;
+      font-size: 24px;
+      margin-bottom: 0;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+
+    .icon-container {
+      color: #bdc3c7;
+      display: block;
+      font-size: 120px;
+      line-height: normal;
+    }
+
+    .btn-action {
+      background-color: #208D4E;
+      color: #fff;
+      font-weight: bold;
+      border-color: #208D4E;
+      width: 90%;
+      border-radius: 6px;
+    }
+  }
+}
